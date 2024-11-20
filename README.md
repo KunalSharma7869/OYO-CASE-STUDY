@@ -23,3 +23,5 @@ Nature of Bookings:
 Oyo should acquire more hotels in the cities of Pune, Kolkata & Mumbai. Because their average room rates are comparetively higher so more revenue will come.
 
 The % cancellation Rate is high on all 9 cities except pune , so Oyo should focus on finding reasons about cancellation.
+CASE STUDY SOLUTIONS:
+CLICK HERE https://github.com/KunalSharma7869/OYO-Case-Study/blob/main/oyo%20sales%20%20project.sql
