@@ -1,4 +1,4 @@
-# OYO-Case-Study
+                                   OYO business
 This repository hosts the solutions for Oyo business room sales analysis.
 I used various SQL functions such as :
 ✅ Case When Statements
